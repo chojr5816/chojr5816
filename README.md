@@ -5,7 +5,21 @@
 
   <br><br>
 
-  <!-- 2. 기술 스택 (Languages & Tools) -->
+  <!-- 2. 프로젝트 (PROJECT) -->
+  <h2>🗝️ PROJECT </h2>
+
+  <p>
+     <a href="#"><b>🚉 지하철 노선도 혼잡도 분석</b></a><br>
+    수정 후 입력
+  </p>
+  <p>
+     <a href="#"><b>🏦 은행 시스템 구현 프로젝트</b></a><br>
+    사용자의 계좌를 관리하고 입/출금 및 계좌이체가 가능한 은행 시스템을 구축한 프로젝트
+  </p>
+
+  <br><br>
+
+  <!-- 3. 기술 스택 (Tech Stack) -->
   <h2>💻 Tech Stack 💻</h2>
 
   <p>
@@ -33,7 +47,7 @@
   </p>
 
   <p>
-    <b>ETC</b><br>
+    <b>Tools</b><br>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
