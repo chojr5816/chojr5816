@@ -36,7 +36,7 @@
 | :--- | :--- |
 | **Stack** | R · Plotly · Shiny · GIS (SHP) · Graph Network |
 | **Highlight** | 공공데이터(교통공사·기상청) 통합 전처리, 표준 수송 용량 기반 혼잡도 지수($C$) 정규화, 기상 요인(강수량) 가중치 예측 모델 및 대화형 최단 경로 시각화 |
-| **Link** | 🔗 [Repo](https://github.com/chojr5816/subway-congestion-analysis) · 📄 [Paper](https://doi.org/10.47116/apjcri.2026.03.32) |
+| **Link** |  📄 [Paper](https://doi.org/10.47116/apjcri.2026.03.32) |
 
   </div>
 
