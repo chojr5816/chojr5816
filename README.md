@@ -11,7 +11,7 @@
   <!-- 프로젝트 1: Sky-Strikers (1945 비행 슈팅 게임) -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### ✈️ [Sky-Strikers](https://github.com/사용자이름/Sky-Strikers)
+### ✈️ [Sky-Strikers](https://github.com/chojr5816/Sky-Strikers)
 
 > 별도 설치 없이 브라우저에서 바로 즐기는 1945 스타일 클래식 비행 슈팅 게임
 
@@ -19,24 +19,24 @@
 | :--- | :--- |
 | **Stack** | HTML5 · CSS3 · Vanilla JavaScript |
 | **Highlight** | GitHub Pages로 즉시 플레이 가능, 프레임워크 없이 순수 JS로 게임 로직 구현 |
-| **Link** | 🔗 [Repo](https://github.com/사용자이름/Sky-Strikers) · 🎮 [Play](https://chojr5816.github.io/H26_web/GAME/shooting1945.html) |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/Sky-Strikers) · 🎮 [Play](https://chojr5816.github.io/H26_web/GAME/shooting1945.html) |
 
   </div>
 
   <br>
 
-  <!-- 프로젝트 2: 지하철 노선도 혼잡도 분석 -->
+  <!-- 프로젝트 2: 지하철 노선도 및 혼잡도 예측 시스템 (논문 기반) -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 🚉 [subway-congestion-analysis](https://github.com/사용자이름/subway-congestion-analysis)
+### 🚉 [subway-congestion-analysis](https://github.com/chojr5816/subway-congestion-analysis)
 
-> 지하철 승하차 및 시간대별 데이터를 분석하여 노선별/역별 혼잡도를 시각화 및 예측하는 프로젝트
+> 서울 도시철도 노선도 구조와 시간대별·기상별 승객 혼잡도의 상관관계를 분석하고 예측하는 시스템 개발 연구 프로젝트 (한국융합학회 논문 게재)
 
 | | |
 | :--- | :--- |
-| **Stack** | R |
-| **Highlight** | 공공데이터 API 연동, 시간대별 혼잡도 시각화 지도 구현, 데이터 전처리 자동화 |
-| **Link** | 🔗 [Repo](https://github.com/사용자이름/subway-congestion-analysis) |
+| **Stack** | R · Plotly · Shiny · GIS (SHP) · Graph Network |
+| **Highlight** | 공공데이터(교통공사·기상청) 통합 전처리, 표준 수송 용량 기반 혼잡도 지수($C$) 정규화, 기상 요인(강수량) 가중치 예측 모델 및 대화형 최단 경로 시각화 |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/subway-congestion-analysis) · 📄 [Paper](https://doi.org/10.47116/apjcri.2026.03.32) |
 
   </div>
 
@@ -62,7 +62,7 @@
   <!-- 프로젝트 4: WordFreqwebDashboard -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 📊 [WordFreqwebDashboard](https://github.com/사용자이름/WordFreqwebDashboard)
+### 📊 [WordFreqwebDashboard](https://github.com/chojr5816/WordFreqwebDashboard)
 
 > 텍스트 데이터를 기반으로 단어 빈도수를 분석하고 시각화 차트를 제공하는 웹 대시보드
 
@@ -70,7 +70,7 @@
 | :--- | :--- |
 | **Stack** | Python · Streamlit · NLTK · Matplotlib |
 | **Highlight** | 불용어(Stopwords) 제거 및 형태소 분석, 사용자 입력 기반 실시간 빈도수 워드클라우드 생성 |
-| **Link** | 🔗 [Repo](https://github.com/사용자이름/WordFreqwebDashboard) |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/WordFreqwebDashboard) |
 
   </div>
 
@@ -79,7 +79,7 @@
   <!-- 프로젝트 5: 노래 가사 텍스트 마이닝 및 감성 분석 대시보드 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 🎶 [lyrics-sentiment-dashboard](https://github.com/사용자이름/lyrics-sentiment-dashboard)
+### 🎶 [lyrics-sentiment-dashboard](https://github.com/chojr5816/lyrics-sentiment-dashboard)
 
 > 시대별/장르별 노래 가사 데이터를 크롤링하여 텍스트 마이닝 및 긍정/부정 감성 분석을 진행한 대시보드
 
@@ -87,7 +87,7 @@
 | :--- | :--- |
 | **Stack** | Python · BeautifulSoup · KoNLPy · PyTorch · Streamlit |
 | **Highlight** | 음원 사이트 가사 데이터 크롤링, 한국어 NLP 전처리 및 감성 분류 모델 적용 |
-| **Link** | 🔗 [Repo](https://github.com/사용자이름/lyrics-sentiment-dashboard) |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/lyrics-sentiment-dashboard) |
 
   </div>
 
@@ -98,6 +98,7 @@
 
   <p>
     <b>Languages</b><br>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
