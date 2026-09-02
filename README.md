@@ -34,7 +34,7 @@
 
 | | |
 | :--- | :--- |
-| **Stack** | Python · Pandas · Folium · Streamlit |
+| **Stack** | R |
 | **Highlight** | 공공데이터 API 연동, 시간대별 혼잡도 시각화 지도 구현, 데이터 전처리 자동화 |
 | **Link** | 🔗 [Repo](https://github.com/사용자이름/subway-congestion-analysis) |
 
@@ -45,7 +45,7 @@
   <!-- 프로젝트 3: 은행 시스템 구현 프로젝트 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 🏦 [bank-system](https://github.com/사용자이름/bank-system)
+### 🏦 [bank-system](https://github.com/chojr5816/Bank-System)
 
 > Python과 Oracle DB를 연동해 만든 객체지향 기반 은행 관리 시스템. 계좌 개설, 입출금, 이체, 트랜잭션 관리 기능 구현
 
@@ -53,7 +53,7 @@
 | :--- | :--- |
 | **Stack** | Python · Oracle Database · oracledb · tabulate |
 | **Highlight** | Commit/Rollback으로 이체 트랜잭션 원자성 보장, SQL Injection 방어(바인딩 변수), 모듈화된 클래스 구조 |
-| **Link** | 🔗 [Repo](https://github.com/사용자이름/bank-system) |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/Bank-System) |
 
   </div>
 
