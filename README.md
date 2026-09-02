@@ -1,19 +1,19 @@
 <div align="center">
 
-  <!-- 1. 상단 타이틀 배너 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00B4D8&center=true&vcenter=true&width=500&height=100&lines=Jongrae+Cho;QA+%2F+Data+Engineer" />
+  <!-- 1. 상단 타이틀 배너 (다크 블루 네온 디자인) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&background=0F172A&center=true&vcenter=true&width=600&height=120&lines=Jongrae+Cho;QA+%2F+Data+Engineer" />
 
   <br><br>
 
   <!-- 2. 프로젝트 (PROJECT) -->
-  <h2>🗝️ PROJECT </h2>
+  <h2>🗝️ PROJECT 🗝️</h2>
 
   <p>
-     <a href="#"><b>🚉 지하철 노선도 혼잡도 분석</b></a><br>
+    <a href="#"><b>🚉 지하철 노선도 혼잡도 분석</b></a><br>
     수정 후 입력
   </p>
   <p>
-     <a href="#"><b>🏦 은행 시스템 구현 프로젝트</b></a><br>
+    <a href="#"><b>🏦 은행 시스템 구현 프로젝트</b></a><br>
     사용자의 계좌를 관리하고 입/출금 및 계좌이체가 가능한 은행 시스템을 구축한 프로젝트
   </p>
 
@@ -48,10 +48,11 @@
 
   <p>
     <b>Tools</b><br>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </p>
 
 </div>
