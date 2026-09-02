@@ -1,11 +1,31 @@
 <div align="center">
 
+  <!-- 1. 상단 타이틀 배너 (다크 블루 네온 디자인) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&background=0F172A&center=true&vcenter=true&width=600&height=120&lines=Jongrae+Cho;QA+%2F+Data+Engineer" />
 
   <br><br>
 
+  <!-- 2. 프로젝트 (PROJECT) -->
   <h2>🗝️ PROJECT 🗝️</h2>
 
+  <!-- 프로젝트 1: Sky-Strikers (1945 비행 슈팅 게임) -->
+  <div align="left" style="width: 85%; margin: 20px auto;">
+
+### ✈️ [Sky-Strikers](https://github.com/사용자이름/Sky-Strikers)
+
+> 별도 설치 없이 브라우저에서 바로 즐기는 1945 스타일 클래식 비행 슈팅 게임
+
+| | |
+| :--- | :--- |
+| **Stack** | HTML5 · CSS3 · Vanilla JavaScript |
+| **Highlight** | GitHub Pages로 즉시 플레이 가능, 프레임워크 없이 순수 JS로 게임 로직 구현 |
+| **Link** | 🔗 [Repo](https://github.com/사용자이름/Sky-Strikers) · 🎮 [Play](https://chojr5816.github.io/H26_web/GAME/shooting1945.html) |
+
+  </div>
+
+  <br>
+
+  <!-- 프로젝트 2: 지하철 노선도 혼잡도 분석 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 🚉 [subway-congestion-analysis](https://github.com/사용자이름/subway-congestion-analysis)
@@ -22,6 +42,7 @@
 
   <br>
 
+  <!-- 프로젝트 3: 은행 시스템 구현 프로젝트 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 🏦 [bank-system](https://github.com/사용자이름/bank-system)
@@ -38,6 +59,7 @@
 
   <br>
 
+  <!-- 프로젝트 4: WordFreqwebDashboard -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 📊 [WordFreqwebDashboard](https://github.com/사용자이름/WordFreqwebDashboard)
@@ -54,6 +76,7 @@
 
   <br>
 
+  <!-- 프로젝트 5: 노래 가사 텍스트 마이닝 및 감성 분석 대시보드 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 🎶 [lyrics-sentiment-dashboard](https://github.com/사용자이름/lyrics-sentiment-dashboard)
@@ -70,6 +93,7 @@
 
   <br><br>
 
+  <!-- 3. 기술 스택 (Tech Stack) -->
   <h2>💻 Tech Stack 💻</h2>
 
   <p>
