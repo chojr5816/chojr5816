@@ -79,7 +79,7 @@
   <!-- 프로젝트 5: WordFreqwebDashboard -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 📊 [WordFreqwebDashboard](https://github.com/chojr5816/WordFreqwebDashboard)
+### 📊 [WordFreqwebDashboard](https://github.com/chojr5816/WordFreqProject)
 
 > 텍스트 데이터를 기반으로 단어 빈도수를 분석하고 시각화 차트를 제공하는 웹 대시보드
 
@@ -87,7 +87,7 @@
 | :--- | :--- |
 | **Stack** | Python · Streamlit · NLTK · Matplotlib |
 | **Highlight** | 불용어(Stopwords) 제거 및 형태소 분석, 사용자 입력 기반 실시간 빈도수 워드클라우드 생성 |
-| **Link** | 🔗 [Repo](https://github.com/chojr5816/WordFreqwebDashboard) |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/WordFreqProject) |
 
   </div>
 
