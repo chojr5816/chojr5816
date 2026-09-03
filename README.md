@@ -127,11 +127,22 @@
   </p>
 
   <p>
-    <b>Frameworks & Libraries</b><br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+    <b>Data & ML</b><br>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge">
+    <img src="https://img.shields.io/badge/KoNLPy-4B8BBE?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+    <img src="https://img.shields.io/badge/WordCloud-FF6F00?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+    <img src="https://img.shields.io/badge/Shiny-4C8CBF?style=for-the-badge">
+  </p>
+
+  <p>
+    <b>Frameworks</b><br>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   </p>
 
   <p>
@@ -144,9 +155,4 @@
   <p>
     <b>Tools</b><br>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  </p>
-
-</div>
+    <img src="https://img.shields.io/badge/GitHub-181
