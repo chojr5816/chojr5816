@@ -45,7 +45,7 @@
   <!-- 프로젝트 3: 지하철 노선도 및 혼잡도 예측 시스템 (논문 기반) -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 🚉 [subway-congestion-analysis]([Paper](https://doi.org/10.47116/apjcri.2026.03.32))
+### 🚉 [subway-congestion-analysis](https://doi.org/10.47116/apjcri.2026.03.32)
 
 > 서울 도시철도 노선도 구조와 시간대별·기상별 승객 혼잡도의 상관관계를 분석하고 예측하는 시스템 개발 연구 프로젝트 (한국융합학회 논문 게재)[cite: 1]
 
