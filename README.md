@@ -85,7 +85,7 @@
 
 | | |
 | :--- | :--- |
-| **Stack** | Python · Streamlit · NLTK · Matplotlib |
+| **Stack** | Python · Streamlit · KoNLPy(Okt) · Matplotlib · WordCloud · Pandas |
 | **Highlight** | 불용어(Stopwords) 제거 및 형태소 분석, 사용자 입력 기반 실시간 빈도수 워드클라우드 생성 |
 | **Link** | 🔗 [Repo](https://github.com/chojr5816/WordFreqProject) |
 
