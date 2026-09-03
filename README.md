@@ -98,13 +98,15 @@
 
 ### 🎶 [lyrics-sentiment-dashboard](https://github.com/chojr5816/lyrics-sentiment-dashboard)
 
-> 시대별/장르별 노래 가사 데이터를 크롤링하여 텍스트 마이닝 및 긍정/부정 감성 분석을 진행한 대시보드
+> 지니차트 1970~2025년 가사 데이터를 분석하여 시대별 트렌드와 긍정/부정 감성 변화를 보여주는 대시보드
 
 | | |
 | :--- | :--- |
-| **Stack** | Python · BeautifulSoup · KoNLPy · PyTorch · Streamlit |
-| **Highlight** | 음원 사이트 가사 데이터 크롤링, 한국어 NLP 전처리 및 감성 분류 모델 적용 |
+| **Stack** | Python · Streamlit · KoNLPy(Okt) · Pandas · Matplotlib · WordCloud |
+| **Highlight** | 가사에서 불필요한 텍스트(제목·재생시간 등)를 제거하고 한국어 문장을 단어 단위로 분석하는 전처리 과정 구축, 미리 정의한 긍정/부정 단어 목록으로 연도별·연대별 감성 변화와 인기 키워드 트렌드를 시각화 |
 | **Link** | 🔗 [Repo](https://github.com/chojr5816/lyrics-sentiment-dashboard) |
+
+  </div>
 
   </div>
 
