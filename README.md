@@ -25,24 +25,41 @@
 
   <br>
 
-  <!-- 프로젝트 2: 지하철 노선도 및 혼잡도 예측 시스템 (논문 기반) -->
+<!-- 프로젝트 2: 로그분석을 통한 보안 위험도 예측 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 🚉 [subway-congestion-analysis](https://github.com/chojr5816/subway-congestion-analysis)
+### 🛡️ [security-log-risk-prediction](https://github.com/chojr5816/security-log-risk-prediction)
 
-> 서울 도시철도 노선도 구조와 시간대별·기상별 승객 혼잡도의 상관관계를 분석하고 예측하는 시스템 개발 연구 프로젝트 (한국융합학회 논문 게재)
+> 보안 로그 데이터를 분석해 위험도 등급을 자동으로 예측하는 머신러닝 프로젝트
 
 | | |
 | :--- | :--- |
-| **Stack** | R · Plotly · Shiny · GIS (SHP) · Graph Network |
-| **Highlight** | 공공데이터(교통공사·기상청) 통합 전처리, 표준 수송 용량 기반 혼잡도 지수($C$) 정규화, 기상 요인(강수량) 가중치 예측 모델 및 대화형 최단 경로 시각화 |
-| **Link** |  📄 [Paper](https://doi.org/10.47116/apjcri.2026.03.32) |
+| **Stack** | Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · RandomForest |
+| **Highlight** | 보안 로그 텍스트를 분석해 위험도 등급을 자동으로 분류하는 모델 개발, 3가지 머신러닝 모델(RandomForest·XGBoost·LightGBM)을 비교해 최적 모델 선정, 데이터 불균형 문제를 고려한 모델 튜닝 및 성능 평가 |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/security-log-risk-prediction) |
 
   </div>
 
   <br>
 
-  <!-- 프로젝트 3: 은행 시스템 구현 프로젝트 -->
+  <!-- 프로젝트 3: 지하철 노선도 및 혼잡도 예측 시스템 (논문 기반) -->
+  <div align="left" style="width: 85%; margin: 20px auto;">
+
+### 🚉 [subway-congestion-analysis](https://github.com/chojr5816/subway-congestion-analysis)
+
+> 서울 도시철도 노선도 구조와 시간대별·기상별 승객 혼잡도의 상관관계를 분석하고 예측하는 시스템 개발 연구 프로젝트 (한국융합학회 논문 게재)[cite: 1]
+
+| | |
+| :--- | :--- |
+| **Stack** | R · Plotly · Shiny · GIS (SHP) · Graph Network |
+| **Highlight** | 공공데이터(교통공사·기상청) 통합 전처리, 표준 수송 용량 기반 혼잡도 지수($C$) 정규화, 기상 요인(강수량) 가중치 예측 모델 및 대화형 최단 경로 시각화[cite: 1] |
+| **Link** | 📄 [Paper](https://doi.org/10.47116/apjcri.2026.03.32) |
+
+  </div>
+
+  <br>
+
+  <!-- 프로젝트 4: 은행 시스템 구현 프로젝트 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 🏦 [bank-system](https://github.com/chojr5816/Bank-System)
@@ -59,7 +76,7 @@
 
   <br>
 
-  <!-- 프로젝트 4: WordFreqwebDashboard -->
+  <!-- 프로젝트 5: WordFreqwebDashboard -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 📊 [WordFreqwebDashboard](https://github.com/chojr5816/WordFreqwebDashboard)
@@ -76,7 +93,7 @@
 
   <br>
 
-  <!-- 프로젝트 5: 노래 가사 텍스트 마이닝 및 감성 분석 대시보드 -->
+  <!-- 프로젝트 6: 노래 가사 텍스트 마이닝 및 감성 분석 대시보드 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 🎶 [lyrics-sentiment-dashboard](https://github.com/chojr5816/lyrics-sentiment-dashboard)
@@ -112,6 +129,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </p>
 
   <p>
