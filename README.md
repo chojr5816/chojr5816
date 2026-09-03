@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. 상단 타이틀 배너 (다크 블루 네온 디자인) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&background=0F172A&center=true&vcenter=true&width=600&height=120&lines=Jongrae+Cho;QA+%2F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&background=0F172A&center=true&vcenter=true&width=600&height=120&lines=Jongrae+Cho;QA" />
 
   <br><br>
 
