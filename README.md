@@ -45,14 +45,14 @@
   <!-- 프로젝트 3: 지하철 노선도 및 혼잡도 예측 시스템 (논문 기반) -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 🚉 [subway-congestion-analysis](https://github.com/chojr5816/subway-congestion-analysis)
+### 🚉 [subway-congestion-analysis]([Paper](https://doi.org/10.47116/apjcri.2026.03.32))
 
 > 서울 도시철도 노선도 구조와 시간대별·기상별 승객 혼잡도의 상관관계를 분석하고 예측하는 시스템 개발 연구 프로젝트 (한국융합학회 논문 게재)[cite: 1]
 
 | | |
 | :--- | :--- |
 | **Stack** | R · Plotly · Shiny · GIS (SHP) · Graph Network |
-| **Highlight** | 공공데이터(교통공사·기상청) 통합 전처리, 표준 수송 용량 기반 혼잡도 지수($C$) 정규화, 기상 요인(강수량) 가중치 예측 모델 및 대화형 최단 경로 시각화[cite: 1] |
+| **Highlight** | 공공데이터(교통공사·기상청) 통합 전처리, 표준 수송 용량 기반 혼잡도 지수($C$) 정규화, 기상 요인(강수량) 가중치 예측 모델 및 대화형 최단 경로 시각화한 프로젝트 |
 | **Link** | 📄 [Paper](https://doi.org/10.47116/apjcri.2026.03.32) |
 
   </div>
