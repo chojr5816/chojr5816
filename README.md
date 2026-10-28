@@ -8,24 +8,24 @@
   <!-- 2. 프로젝트 (PROJECT) -->
   <h2>🗝️ PROJECT 🗝️</h2>
 
-  <!-- 프로젝트 1: Sky-Strikers (1945 비행 슈팅 게임) -->
+  <!-- 프로젝트 7: StoreOpsAI -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### ✈️ [Sky-Strikers](https://github.com/chojr5816/Sky-Strikers)
+### 🏪 [StoreOpsAI](https://github.com/chojr5816/StoreOpsAI)
 
-> 별도 설치 없이 브라우저에서 바로 즐기는 1945 스타일 클래식 비행 슈팅 게임
+> CCTV 이상행동 탐지, 수요 예측 기반 발주 초안, 운영 기록 질의응답(Q&A)을 하나로 묶은 무인·소규모 매장 점주용 운영 지원 플랫폼
 
 | | |
 | :--- | :--- |
-| **Stack** | HTML5 · CSS3 · Vanilla JavaScript |
-| **Highlight** | GitHub Pages로 즉시 플레이 가능, 프레임워크 없이 순수 JS로 게임 로직 구현 |
-| **Link** | 🔗 [Repo](https://github.com/chojr5816/Sky-Strikers) · 🎮 [Play](https://chojr5816.github.io/H26_web/GAME/shooting1945.html) |
+| **Stack** | React 19 · Vite · FastAPI · PostgreSQL · Docker Compose · XGBoost · YOLO · S3D · Qwen3-VL(vLLM) |
+| **Highlight** | YOLO·S3D·VLM 2단계 검증 CCTV 이상행동 탐지, 수요 예측 기반 발주 초안 생성·승인, 운영 기록·점검 규정 Q&A, Docker Compose 기반 마이크로서비스 통합 |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/StoreOpsAI) |
 
   </div>
 
   <br>
 
-<!-- 프로젝트 2: 로그분석을 통한 보안 위험도 예측 -->
+  <!-- 프로젝트 2: 로그분석을 통한 보안 위험도 예측 -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
 ### 🛡️ [security-log-risk-prediction](https://github.com/chojr5816/security-log-risk-prediction)
@@ -110,18 +110,18 @@
 
   <br>
 
-  <!-- 프로젝트 7: StoreOpsAI -->
+  <!-- 프로젝트 7: Sky-Strikers (1945 비행 슈팅 게임) -->
   <div align="left" style="width: 85%; margin: 20px auto;">
 
-### 🏪 [StoreOpsAI](https://github.com/chojr5816/StoreOpsAI)
+### ✈️ [Sky-Strikers](https://github.com/chojr5816/Sky-Strikers)
 
-> CCTV 이상행동 탐지, 수요 예측 기반 발주 초안, 운영 기록 질의응답(Q&A)을 하나로 묶은 무인·소규모 매장 점주용 운영 지원 플랫폼
+> 별도 설치 없이 브라우저에서 바로 즐기는 1945 스타일 클래식 비행 슈팅 게임
 
 | | |
 | :--- | :--- |
-| **Stack** | React 19 · Vite · FastAPI · PostgreSQL · Docker Compose · XGBoost · YOLO · S3D · Qwen3-VL(vLLM) |
-| **Highlight** | YOLO·S3D·VLM 2단계 검증 CCTV 이상행동 탐지, 수요 예측 기반 발주 초안 생성·승인, 운영 기록·점검 규정 Q&A, Docker Compose 기반 마이크로서비스 통합 |
-| **Link** | 🔗 [Repo](https://github.com/chojr5816/StoreOpsAI) |
+| **Stack** | HTML5 · CSS3 · Vanilla JavaScript |
+| **Highlight** | GitHub Pages로 즉시 플레이 가능, 프레임워크 없이 순수 JS로 게임 로직 구현 |
+| **Link** | 🔗 [Repo](https://github.com/chojr5816/Sky-Strikers) · 🎮 [Play](https://chojr5816.github.io/H26_web/GAME/shooting1945.html) |
 
   </div>
 
