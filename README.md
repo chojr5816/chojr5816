@@ -120,7 +120,7 @@
 | | |
 | :--- | :--- |
 | **Stack** | React 19 · Vite · FastAPI · PostgreSQL · Docker Compose · XGBoost · YOLO · S3D · Qwen3-VL(vLLM) |
-| **Highlight** | | **Highlight** | YOLO·S3D·VLM 2단계 검증 CCTV 이상행동 탐지, 수요 예측 기반 발주 초안 생성·승인, 운영 기록·점검 규정 Q&A, Docker Compose 기반 마이크로서비스 통합 |
+| **Highlight** | YOLO·S3D·VLM 2단계 검증 CCTV 이상행동 탐지, 수요 예측 기반 발주 초안 생성·승인, 운영 기록·점검 규정 Q&A, Docker Compose 기반 마이크로서비스 통합 |
 | **Link** | 🔗 [Repo](https://github.com/chojr5816/StoreOpsAI) |
 
   </div>
