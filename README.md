@@ -120,7 +120,7 @@
 | | |
 | :--- | :--- |
 | **Stack** | React 19 · Vite · FastAPI · PostgreSQL · Docker Compose · XGBoost · YOLO · S3D · Qwen3-VL(vLLM) |
-| **Highlight** | 마이크로서비스 구조(프런트·업무 API·CCTV 탐지·수요 예측·Q&A Agent)를 Docker Compose로 통합 구성, 점주 세션 인증(`X-Session-ID`) 및 매장 단위 데이터 접근 범위 제한, YOLO·S3D 행동 분석 후 VLM 게이트로 이상행동을 재확인하는 CCTV 탐지 파이프라인(VLM 오류 시 사건을 놓치지 않는 fail-open 설계), 수요 예측 결과 기반 발주 초안 생성·승인 흐름, 점주의 사건·발주 기록과 매장 점검 규정을 근거와 함께 질문할 수 있는 Q&A 기능, PostgreSQL 영속 저장 + 로컬 개발용 메모리 저장소 지원, 백엔드·수요 서비스 테스트 코드 작성 |
+| **Highlight** | | **Highlight** | YOLO·S3D·VLM 2단계 검증 CCTV 이상행동 탐지, 수요 예측 기반 발주 초안 생성·승인, 운영 기록·점검 규정 Q&A, Docker Compose 기반 마이크로서비스 통합 |
 | **Link** | 🔗 [Repo](https://github.com/chojr5816/StoreOpsAI) |
 
   </div>
